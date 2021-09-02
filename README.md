@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dev-Talhaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Vue.Js V2
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Vue.Js 
 - 📫 Reach me on Instsgram with username (mrr._.talha)
 
 <!---
